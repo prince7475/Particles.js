@@ -1,0 +1,22 @@
+{
+  "name": "particles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prince7475/Particles.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prince7475/Particles.js/issues"
+  },
+  "homepage": "https://github.com/prince7475/Particles.js#readme",
+  "dependencies": {
+    "particles.js": "^2.0.0"
+  }
+}
