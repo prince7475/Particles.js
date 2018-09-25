@@ -1,0 +1,13 @@
+{
+    "particles":{
+        "number" : {
+            "value":10
+        },
+        "color": {
+            "value":"#fff"
+        },
+        "shape": {
+            "type":"circle"
+        }
+    }
+}
